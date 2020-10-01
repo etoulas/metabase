@@ -94,7 +94,7 @@
     "@babel/standalone": "^7.4.5",
     "@cypress/webpack-preprocessor": "^4.1.0",
     "@slack/client": "^3.5.4",
-    "@testing-library/cypress": "^5.0.2",
+    "@testing-library/cypress": "^7.0.1",
     "@testing-library/jest-dom": "^4.0.0",
     "@testing-library/react": "^11.0.2",
     "babel-cli": "^6.26.0",
@@ -222,8 +222,5 @@
       "prettier --write",
       "git add"
     ]
-  },
-  "resolutions": {
-    "cypress": "3.8.2"
   }
 }
